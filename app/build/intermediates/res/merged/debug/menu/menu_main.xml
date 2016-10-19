@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id = "@+id/expanded_menu"
+    tools:context="com.example.jawadh.helloworld.MainActivity">
+
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="never">
+
+    </item>
+    <item
+        android:id="@+id/navigate"
+        android:title="@string/next"
+        android:orderInCategory="200"
+        android:icon="@drawable/next"
+        app:showAsAction="always">
+
+    </item>
+
+</menu>

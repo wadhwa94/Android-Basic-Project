@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jatin\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_95b126400951cba7b04ed76b2156197a8a54cedf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_e9cee7c72177c1cae339714fef1c704ef9d73e1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_9c8ca77943d6a8ac560f72a168e2ac542fe9e172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_b9c1b85423bd72d88496f14a4efffa7acdd0e4ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_0612c14d61c9abc18210144a12740132669b05c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jatin\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_3dc950b33aa301a5b72a67ed698d2c5218f9600a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jatin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_03bb4cee0b7a9cb2df2c21afcc199fbe748aa63c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Office Laptop Data\Android Projects\HelloWorld\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_5a01df2142178840e40c739eed8bf51fe351f9ec.jar" />
+    </item>
+
+</items>
